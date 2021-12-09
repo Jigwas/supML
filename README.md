@@ -29,7 +29,7 @@ In this paper we follow along our path of code and display central thoughts of w
 Additionally, we briefly explain the techniques we utilized to underline our comprehensive understanding of the models' conceptual baselines. 
 Finally, we assess our results and apply our best model to a new dataset to predict the outcome. 
 
-The dataset in question contains 90001 real-life observations of Switzerland's housing market described and structured into 100 different variables. 
+The dataset in question contains 90001 real-life observations of Switzerland's real estate market described and structured into 100 different variables. 
 
 
 ## 2 Data Cleaning
